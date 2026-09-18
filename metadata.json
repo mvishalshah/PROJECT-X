@@ -1,0 +1,6 @@
+{
+  "name": "BlockVault",
+  "description": "Decentralized Identity, Access Control & Digital Asset Security Platform powered by W3C DIDs and Smart Contracts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
